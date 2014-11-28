@@ -18,9 +18,14 @@ presentation libraries
 ## cd dir with project
 
 
-# run
+## run
 ```sh
 	$ npm install && bower install
+```
+
+## then
+```sh
+	grunt server
 ```
 
 
