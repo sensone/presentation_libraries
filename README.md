@@ -36,4 +36,4 @@ presentation libraries
 [node.js]: http://nodejs.org/
 [grunt]: http://gruntjs.com/getting-started
 [bower]: http://bower.io/
-[PRESENTATION] http://host3.demo16753.atservers.net/presentation_libraries/#/
+[PRESENTATION]: http://host3.demo16753.atservers.net/presentation_libraries/#/
